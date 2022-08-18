@@ -1,4 +1,4 @@
-# CompositionalGVPs
+# CompositionalGVFs
 This repository contains the code for Compositional GVFs on the Cycle World and Gridworld environments. 
 
 We use TD(0) to learn the Compositional GVFs. In Cycle World, we use the observation as cumulant.
