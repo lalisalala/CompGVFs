@@ -4,14 +4,13 @@ This repository contains the code for Compositional GVFs on the Cycle World and 
 We use TD(0) to learn the Compositional GVFs. In **Cycle World**, we use the observation as cumulant.
 
 ![Cycle World Shit](CycleWorldCompGVFs.png)
+![Cycle World](CycleWorldCompGVFsTerminating.png)
 
 In **Gridworld**, we use the reward as cumulant to learn the first GVF. 
 
-![Gridworld Shit](GridworldCompGVFs.png)
 
 ![Gridworld Shit](GridworldCompGVFsTerminating.png)
 
-![Gridworld Shit](CycleWorldCompGVFsTerminating.png)
 
 ## Reference
 For more details refer to:
