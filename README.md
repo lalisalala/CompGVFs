@@ -11,6 +11,7 @@ In **Gridworld**, we use the reward as cumulant to learn the first GVF.
 
 ![Gridworld Shit](GridworldCompGVFsTerminating.png)
 
+![Gridworld Shit](CycleWorldCompGVFsTerminating.png)
 ## Reference
 For more details refer to:
 https://mkschleg.github.io/papers/schlegel2022predictions.pdf
