@@ -11,6 +11,7 @@ In **Gridworld**, we use the reward as cumulant to learn the first GVF.
 
 ![Gridworld Shit](GridworldCompGVFsTerminating.png)
 
+For a continuous environment, we use Mountain Car. This environment has a fixed solution, on which we learn the GVFs. 
 
 ## Reference
 For more details refer to:
